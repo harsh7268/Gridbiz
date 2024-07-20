@@ -3,17 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
+    <title>Gridbiz</title>
 </head>
 <body>
 
 <h1 align="center">Project Name</h1>
 
 <p align="center">
-    <a href="https://github.com/your-username/your-repo"><img src="https://img.shields.io/github/stars/your-username/your-repo.svg?style=flat-square"></a>
-    <a href="https://github.com/your-username/your-repo"><img src="https://img.shields.io/github/forks/your-username/your-repo.svg?style=flat-square"></a>
-    <a href="https://github.com/your-username/your-repo/issues"><img src="https://img.shields.io/github/issues/your-username/your-repo.svg?style=flat-square"></a>
-    <a href="https://github.com/your-username/your-repo"><img src="https://img.shields.io/github/license/your-username/your-repo.svg?style=flat-square"></a>
+    <a href="https://github.com/harsh7268/Gridbiz"><img src="https://img.shields.io/github/stars/your-username/your-repo.svg?style=flat-square"></a>
+    <a href="https://github.com/harsh7268/Gridbiz"><img src="https://img.shields.io/github/forks/your-username/your-repo.svg?style=flat-square"></a>
+    <a href="https://github.com/harsh7268/Gridbiz/issues"><img src="https://img.shields.io/github/issues/your-username/your-repo.svg?style=flat-square"></a>
+    <a href="https://github.com/harsh7268/Gridbiz"><img src="https://img.shields.io/github/license/your-username/your-repo.svg?style=flat-square"></a>
 </p>
 
 <p align="center">A brief description of what your project does and who it's for</p>
@@ -32,7 +32,7 @@
 
 <h2 id="about-the-project">About The Project</h2>
 <p>
-    <img src="https://via.placeholder.com/800x400" alt="Project Screenshot" style="width:100%;">
+    <img src="img-1.jpg" alt="Project Screenshot" style="width:100%;">
 </p>
 <p>
     Provide a general overview of your project here, including the problem it solves, its main features, and any other relevant details.
